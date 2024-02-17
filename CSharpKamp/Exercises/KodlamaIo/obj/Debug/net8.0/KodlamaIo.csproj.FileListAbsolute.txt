@@ -1,0 +1,14 @@
+C:\Users\Yunus Emre\Desktop\CSharpKamp\Exercises\KodlamaIo\bin\Debug\net8.0\KodlamaIo.exe
+C:\Users\Yunus Emre\Desktop\CSharpKamp\Exercises\KodlamaIo\bin\Debug\net8.0\KodlamaIo.deps.json
+C:\Users\Yunus Emre\Desktop\CSharpKamp\Exercises\KodlamaIo\bin\Debug\net8.0\KodlamaIo.runtimeconfig.json
+C:\Users\Yunus Emre\Desktop\CSharpKamp\Exercises\KodlamaIo\bin\Debug\net8.0\KodlamaIo.dll
+C:\Users\Yunus Emre\Desktop\CSharpKamp\Exercises\KodlamaIo\bin\Debug\net8.0\KodlamaIo.pdb
+C:\Users\Yunus Emre\Desktop\CSharpKamp\Exercises\KodlamaIo\obj\Debug\net8.0\KodlamaIo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunus Emre\Desktop\CSharpKamp\Exercises\KodlamaIo\obj\Debug\net8.0\KodlamaIo.AssemblyInfoInputs.cache
+C:\Users\Yunus Emre\Desktop\CSharpKamp\Exercises\KodlamaIo\obj\Debug\net8.0\KodlamaIo.AssemblyInfo.cs
+C:\Users\Yunus Emre\Desktop\CSharpKamp\Exercises\KodlamaIo\obj\Debug\net8.0\KodlamaIo.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre\Desktop\CSharpKamp\Exercises\KodlamaIo\obj\Debug\net8.0\KodlamaIo.dll
+C:\Users\Yunus Emre\Desktop\CSharpKamp\Exercises\KodlamaIo\obj\Debug\net8.0\refint\KodlamaIo.dll
+C:\Users\Yunus Emre\Desktop\CSharpKamp\Exercises\KodlamaIo\obj\Debug\net8.0\KodlamaIo.pdb
+C:\Users\Yunus Emre\Desktop\CSharpKamp\Exercises\KodlamaIo\obj\Debug\net8.0\KodlamaIo.genruntimeconfig.cache
+C:\Users\Yunus Emre\Desktop\CSharpKamp\Exercises\KodlamaIo\obj\Debug\net8.0\ref\KodlamaIo.dll
